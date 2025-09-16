@@ -7,7 +7,7 @@ It has a modern **glassmorphism UI design** and supports basic arithmetic operat
 
 ## 🚀 Live Demo  
 👉 After hosting, your calculator will be live here:  
-[🔗 Click to Try Calculator](https://khushikumari94.github.io/Task-3/)  
+[🔗 Click to Try Calculator]( https://swimmyrani12.github.io/Task-3/)  
 
 ---
 
